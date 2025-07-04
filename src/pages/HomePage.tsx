@@ -71,7 +71,7 @@ const HomePage = () => {
         </div>
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">
-            1 in 3 UK households hoards leftover paint.<br />
+            1 in 3 UK households wastes leftover paint.<br />
             <span className="text-yellow-300">Let's put it to work.</span>
           </h1>
           <p className="text-xl text-white max-w-3xl mx-auto mb-10">
